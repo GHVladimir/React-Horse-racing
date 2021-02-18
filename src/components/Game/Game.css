@@ -1,0 +1,13 @@
+.game-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.game-input {
+  width: 300px;
+}
+
+.race-type {
+  margin-top: 20px;
+}

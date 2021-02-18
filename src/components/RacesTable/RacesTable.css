@@ -1,0 +1,11 @@
+.races-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.race-type {
+  display: block;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-top: 20px;
+}

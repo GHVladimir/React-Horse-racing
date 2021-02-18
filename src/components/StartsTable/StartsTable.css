@@ -1,0 +1,8 @@
+.collapsed-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.starts-table {
+  margin-top: 20px;
+}
